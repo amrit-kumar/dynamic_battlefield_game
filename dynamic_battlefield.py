@@ -1,6 +1,3 @@
-from random import randint
-# import numpy
-
 class Battleship(object):
 
     def __init__(self):
